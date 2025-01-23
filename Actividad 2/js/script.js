@@ -1,15 +1,15 @@
 function saludar(){
     alert("¡Hola caracola!");
 
-    carita();
+    emoji();
 }
 
 function despedir(){
     alert("¡Adios Caparrós!");
 
-    carita();
+    emoji();
 }
 
-function carita(){
+function emoji(){
     alert(":3");
 }
