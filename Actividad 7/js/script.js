@@ -36,5 +36,6 @@ function Comprobar(){
 
     else{
         document.getElementById("resultado").innerHTML = "La nota que has puesto no es válida."
+        document.getElementById("resultado").style.color = "black"
     }
 }
